@@ -20,9 +20,9 @@ These are what I've built:
 | 🍌 | [BananaFood](https://bananafood.app/) | Free menu translation app with AI-powered menu translation and food recognition. See it, know it.<br>免费菜单翻译应用，AI 驱动的菜单翻译和食物识别。所见即所知。 |
 | 🧠 | [Mega 4](https://mega4labs.vercel.app/) | Interviews with four major AI labs.<br>四大人工智能实验室采访。 |
 
-> Exploring tools for information, imagination, and small useful workflows.
+> Exploring tools for information, imagination.
 >
-> 探索信息管理、想象力工具和有用的小工作流。
+> 探索信息管理、想象力工具。
 
 <p align="center">
   <sub>🌐 <a href="https://www.nextbigtoy.com/">NextBigToy</a> · <a href="https://github.com/nexteacc">GitHub</a></sub>
