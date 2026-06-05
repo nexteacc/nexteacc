@@ -20,6 +20,11 @@ These are what I've built:
 | 🍌 | [BananaFood](https://bananafood.app/) | Free menu translation app with AI-powered menu translation and food recognition. See it, know it.<br>免费菜单翻译应用，AI 驱动的菜单翻译和食物识别。所见即所知。 |
 | 🧠 | [Mega 4](https://mega4labs.vercel.app/) | Interviews with four major AI labs.<br>四大人工智能实验室采访。 |
 
+| |  | developer tools |
+|---|---|---|
+| 🔔 | [Codex Beacon](https://github.com/nexteacc/codex-beacon) | Codex 本地提醒工具：当 Codex 需要授权或完成任务时，通过 macOS 声音和 Touch Bar 提醒你，适用于命令行和桌面端。<br>A local notifier for Codex permission requests and completed turns, with macOS sounds and Touch Bar states for both CLI and desktop. |
+| 🛠️ | [serve-sim x86_64 Mac Patch](https://github.com/nexteacc/serve-sim-x86_64-mac-patch) | 让 Codex 在 x86_64 Mac 的内置浏览器中流式查看并操作 iOS Simulator。<br>Enable Codex to stream and operate iOS Simulator in the in-app browser on x86_64 Macs. |
+
 > Exploring tools for information, imagination.
 >
 > 探索信息管理、想象力工具。
