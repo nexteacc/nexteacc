@@ -28,6 +28,8 @@ These are what I've built:
 > Exploring tools for information, imagination.
 >
 > 探索信息管理、想象力工具。
+>
+> 以上很多项目都没有付费的token无法使用了，抱歉。目前我在使用的一个中转站 走邀请链接 https://api.fenno.ai/register?aff=QYQ2WJ6CZRJF
 
 <p align="center">
   <sub>🌐 <a href="https://www.nextbigtoy.com/">NextBigToy</a> · <a href="https://github.com/nexteacc">GitHub</a></sub>
